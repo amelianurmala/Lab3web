@@ -1,5 +1,13 @@
 # Lab3web
 
+
+*Nama    : Amelia Nurmala Dewi*
+
+*NIM     : 312410199*
+
+*Kelas   : TI.24.A2*
+
+
 ## Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
