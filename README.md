@@ -8,8 +8,7 @@
 *Kelas   : TI.24.A2*
 
 
-## Pertanyaan dan Tugas
-1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+## Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
    
 ### 1. lab3_list.html
@@ -18,7 +17,7 @@
 <img width="1366" height="720" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/2b000f2c-305e-4d95-a1d4-b1ac4bc52c80" />
 <img width="1366" height="720" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/3868131c-1f94-43ce-bbcc-db95a4d445a5" />
 
-Penjelasan :
+**Penjelasan :**
 Pada bagian ini saya membuat list (daftar) di HTML sesuai contoh yang ada di materi.
 Saya hanya mengikuti langkah-langkah yang diberikan, mulai dari membuat ordered list, unordered list, dan description list.
 
@@ -34,7 +33,7 @@ Tujuannya agar saya memahami perbedaan dari ketiga jenis list tersebut dan bagai
 <img width="1366" height="720" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/62fb15dd-e323-4c61-b9f0-67baae513de7" />
 <img width="1366" height="722" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/faac6845-605b-4e1c-8912-b6bccf031e30" />
 
-Penjelasan :
+**Penjelasan :**
 ada bagian ini saya membuat tabel HTML berdasarkan contoh di materi praktikum.
 Saya mengikuti langkah-langkah pembuatan tabel yang berisi kolom No, Fakultas, dan Program Studi.
 
@@ -54,7 +53,7 @@ Tujuannya untuk mempelajari cara menampilkan data dalam bentuk tabel yang rapi d
 <img width="1366" height="724" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/02900764-4ce7-4bdd-88ef-1f91c8d93129" />
 <img width="1366" height="730" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/a85f5fe9-bf51-4943-ad15-515e648d9e96" />
 
-Penjelasan :
+**Penjelasan :**
 Pada bagian ini saya membuat formulir HTML sederhana sesuai contoh yang ada di materi.
 Saya hanya mengikuti langkah-langkah dari materi untuk membuat form dengan elemen input seperti:
 
@@ -69,7 +68,7 @@ Dari latihan ini, saya belajar bagaimana cara membuat form sederhana yang bisa d
 
 <img width="1366" height="724" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/389256ac-f6b1-4481-8e88-f683850f9ed1" />
 
-Penjelasan :
+**Penjelasan :**
 Pada tampilan ini saya membuat Form Pendaftaran Mahasiswa menggunakan HTML dan CSS.
 Form ini berfungsi untuk menginput data mahasiswa baru dengan tampilan yang modern dan rapi.
 
