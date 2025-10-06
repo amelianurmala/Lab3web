@@ -32,10 +32,10 @@ Saya mengikuti langkah-langkah pembuatan tabel yang berisi kolom No, Fakultas, d
 
 Tabel ini dibuat menggunakan elemen:
 
-- *<table> untuk membentuk tabel,
-- **<tr>** untuk membuat baris,
-- **<th>** untuk membuat header, dan
-- <td> untuk mengisi data pada setiap kolom.
+- **`<table>`** untuk membentuk tabel,
+- **`<tr>`** untuk membuat baris,
+- **`<th>`** untuk membuat header, dan
+- **`<td>`** untuk mengisi data pada setiap kolom.
 
 Tujuannya untuk mempelajari cara menampilkan data dalam bentuk tabel yang rapi dan mudah dibaca.
 
